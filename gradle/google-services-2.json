@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781327985106",
+    "project_id": "andriodprojectflowfunds",
+    "storage_bucket": "andriodprojectflowfunds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781327985106:android:d699b04a365778f41e000b",
+        "android_client_info": {
+          "package_name": "com.example.flowfunds"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS5tm7G66CTSvM14SZFEQHLbrpEc6DLFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
